@@ -1,9 +1,9 @@
 {
-  posts: [
-    { name: "Google", anounce: "Анонс", full: "Полная статья", img: "https://picsum.photos/200/300?random=1" },
-    { name: "Google2", anounce: "Анонс2", full: "Полная статья2", img: "https://picsum.photos/200/300?random=2" },
-    { name: "Google3", anounce: "Анонс3", full: "Полная статья3", img: "https://picsum.photos/200/300?random=3" },
-    { name: "Google4", anounce: "Анонс4", full: "Полная статья3", img: "https://picsum.photos/200/300?random=4" },
-    { name: "Google5", anounce: "Анонс5", full: "Полная статья3", img: "https://picsum.photos/200/300?random=5" },
+  "posts": [
+    { "name": "Google", "anounce": "Анонс", "full": "Полная статья", "img": "https://picsum.photos/200/300?random=1" },
+    { "name": "Google2", "anounce": "Анонс2", "full": "Полная статья2", "img": "https://picsum.photos/200/300?random=2" },
+    { "name": "Google3", "anounce": "Анонс3", "full": "Полная статья3", "img": "https://picsum.photos/200/300?random=3" },
+    { "name": "Google4", "anounce": "Анонс4", "full": "Полная статья3", "img": "https://picsum.photos/200/300?random=4" },
+    { "name": "Google5", "anounce": "Анонс5", "full": "Полная статья3", "img": "https://picsum.photos/200/300?random=5" },
   ],
 }
